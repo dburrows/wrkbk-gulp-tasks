@@ -1,0 +1,23 @@
+{
+  "name": "wrkbk-gulp-tasks",
+  "version": "1.0.1",
+  "description": "gulp functions for wrkbk monorepo",
+  "scripts": {
+  },
+  "dependencies": {
+    "babel-core": "^6.8.0",
+    "del": "^2.2.0",
+    "eslint": "^2.7.0",
+    "eslint-plugin-react": "^4.3.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-mocha": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-util": "^3.0.7"
+  },
+  "devDependencies": {
+  },
+  "author": "David Burrows <david@designsuperbuild.com>",
+  "license": "MIT"
+}

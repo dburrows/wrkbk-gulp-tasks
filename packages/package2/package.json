@@ -1,0 +1,14 @@
+{
+  "name": "package2",
+  "version": "1.0.0",
+  "description": "example package",
+  "scripts": {
+  },
+  "dependencies": {
+    "package1": "*"
+  },
+  "devDependencies": {
+  },
+  "author": "David Burrows <david@designsuperbuild.com>",
+  "license": "MIT"
+}
