@@ -1,0 +1,1 @@
+{"version":3,"sources":["package1.js"],"names":[],"mappings":";;;;;kBAEwB,Q;AAFxB,IAAI,4BAAJ;;AAEe,SAAS,QAAT,GAAoB;AACjC,SAAO,OAAP;AACD","file":"package1.js","sourcesContent":["let message = `This is package1`;\n\nexport default function package1() {\n  return message;\n}\n"],"sourceRoot":"../src"}

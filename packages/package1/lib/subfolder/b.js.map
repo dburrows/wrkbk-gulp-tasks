@@ -1,0 +1,1 @@
+{"version":3,"sources":["subfolder/b.js"],"names":[],"mappings":";;;;;AAAA,IAAI,8BAAJ;;kBAEe,C","file":"subfolder/b.js","sourcesContent":["var b = `This is subfolder file b`;\n\nexport default b;\n"],"sourceRoot":"../../src"}

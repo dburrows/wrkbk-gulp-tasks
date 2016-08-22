@@ -1,0 +1,1 @@
+{"version":3,"sources":["subfolder/a.js"],"names":[],"mappings":";;;;;AAAA,IAAI,MAAM,0BAAV;AACA,IAAI,MAAK;AACP;AADO,CAAT;;kBAIe,G","file":"subfolder/a.js","sourcesContent":["var msg = 'This is subfolder file a';\nvar obj ={\n  msg\n};\n\nexport default obj;\n"],"sourceRoot":"../../src"}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["test.js"],"names":[],"mappings":";;;;;;AAAA;;;;AACA;;;;;;kBAEe;AACb,MAAI,wBADS;AAEb;AAFa,C","file":"test.js","sourcesContent":["import package1 from 'package1';\nimport name from 'package2';\n\nexport default {\n  p1: package1(),\n  p2: name\n};\n"],"sourceRoot":"../src"}
